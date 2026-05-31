@@ -52,8 +52,8 @@ site:     muditahlawat.in
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mudit01100001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudit01100001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mudit01100001&theme=tokyonight&hide_border=true&background=0d1117&stroke=ffffff&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudit01100001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&count_private=true" height="150" />
 </p>
 
 ---
