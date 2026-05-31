@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=28&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&lines=Mudit+Ahlawat;Filmmaker+%26+Director;Brand+Content+Creator;3D+Artist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=28&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Mudit+Ahlawat;Filmmaker+%26+Director;Brand+Content+Creator;3D+Artist" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,15 +9,16 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/Mudit01100001?style=flat-square&color=1a1a2e&labelColor=0a0a0a&label=followers&logo=github&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/catalogue-220K%2B%20views-flat-square?style=flat-square&color=1a1a2e&labelColor=0a0a0a&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/catalogue-220K%2B_views-1a1a2e?style=flat-square&labelColor=0a0a0a&logo=youtube&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Instagram-mudit__main-flat-square?style=flat-square&color=1a1a2e&labelColor=0a0a0a&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/instagram-mudit__main-1a1a2e?style=flat-square&labelColor=0a0a0a&logo=instagram&logoColor=white" />
 </p>
 
 ---
 
-<p align="center">
-<pre>
+<div align="center">
+
+```
 ╔══════════════════════════════════════════════╗
 ║                                              ║
 ║         MUDIT AHLAWAT   //   INDIA           ║
@@ -30,8 +31,9 @@
 ║                                              ║
 ║         [ muditahlawat.in ]                  ║
 ╚══════════════════════════════════════════════╝
-</pre>
-</p>
+```
+
+</div>
 
 ---
 
@@ -55,7 +57,7 @@ site:     muditahlawat.in
 
 ---
 
-<details>
+<details open>
 <summary><b>🛠 Tools & Skills</b></summary>
 <br>
 <p align="left">
@@ -70,7 +72,7 @@ site:     muditahlawat.in
 </p>
 </details>
 
-<details>
+<details open>
 <summary><b>📊 GitHub Stats</b></summary>
 <br>
 <p align="center">
