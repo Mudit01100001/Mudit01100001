@@ -16,27 +16,6 @@
 
 ---
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════╗
-║                                              ║
-║         MUDIT AHLAWAT   //   INDIA           ║
-║                                              ║
-║   DIRECTOR · DP · BRAND CONTENT · 3D        ║
-║                                              ║
-║   TEDxAshoka 2026  ··  130K+ views           ║
-║   HUMAINE catalogue  ··  90K+ views          ║
-║   Ashoka Business Club  ··  55K+ organic     ║
-║                                              ║
-║         [ muditahlawat.in ]                  ║
-╚══════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
 ```yaml
 name:     Mudit Ahlawat
 based_in: India
