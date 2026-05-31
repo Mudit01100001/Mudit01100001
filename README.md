@@ -35,20 +35,6 @@ site:     muditahlawat.in
 
 ---
 
-## Featured Work
-
-| Project | Role | Result |
-|---|---|---|
-| TEDxAshoka University 2026 | Head of Video Production | 130,000+ views |
-| Ashoka Business Club Campaign | Solo — concept, shoot, edit | 55,000+ organic views |
-| HUMAINE (2024) | Co-director, DP, editor | Part of 90,000+ view catalogue |
-| Have You Seen Tara | Director of Photography | Ongoing series |
-| The Jersey Collective | Creative & art direction | |
-| Apple Watch Concept Render | 3D modelling & lighting | |
-| Dear Roommate 2 | Direction, cinematography, edit | |
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -56,16 +42,3 @@ site:     muditahlawat.in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mudit01100001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&count_private=true" height="150" />
 </p>
 
----
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mudit01100001/Mudit01100001/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mudit01100001/Mudit01100001/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Mudit01100001/Mudit01100001/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=100&section=footer)
