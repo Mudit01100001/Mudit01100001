@@ -1,8 +1,6 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=28&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Mudit+Ahlawat;Filmmaker+%26+Director;Brand+Content+Creator;3D+Artist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=28&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Mudit+Ahlawat;Filmmaker+%26+Director;Brand+Content+Creator;3D+Artist" alt="Mudit Ahlawat" />
 </p>
-
----
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Mudit01100001.Mudit01100001&style=flat-square&color=1a1a2e&labelColor=0a0a0a&label=profile+views" />
@@ -13,6 +11,12 @@
   &nbsp;
   <img src="https://img.shields.io/badge/instagram-mudit__main-1a1a2e?style=flat-square&labelColor=0a0a0a&logo=instagram&logoColor=white" />
 </p>
+
+---
+
+**Mudit Ahlawat** — filmmaker, director, brand content creator, and 3D artist based in India.
+
+I direct short films and brand campaigns, shoot as DP, and build 3D visuals in Blender. Currently Head of Video Production at TEDxAshoka University.
 
 ---
 
